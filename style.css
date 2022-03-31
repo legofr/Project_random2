@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(189, 240, 253);
+}
+#div1 {
+    border-radius: 30px;
+    background:whitesmoke;
+    padding:20px;
+    float:none;
+}
+#info{
+    font-size : 20px;
+    color:mediumturquoise ;
+    font-family:fantasy;
+
+}
+
+.text{
+    font-size :15px;
+    font-family:fantasy;
+    color: plum;
+}
+
+#div2{
+    border-radius: 30px;
+    background-color:white;
+    padding:20px;
+    float:none;
+}
+h4{
+color:mediumorchid;
+font-family: fantasy;
+
+}
+#login{
+    font-family:fantasy;
+    color: dodgerblue;
+}
+
+#labelmath{
+color:mediumblue;
+font-family:fantasy;
+padding:40px;
+}
+
+#loginbutton{
+    font-family: fantasy;
+}
+
